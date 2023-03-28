@@ -4,7 +4,9 @@
        -Github: InaDunchanka
  3. There was a desire to get an education in a new profession, I chose rs school courses. I like learning new material and developing. I worked in various specialties. I easily master new classes and find a common language.
  4. Skills:  
- -JS/Frontend    
+ -JS/Frontend  
+ -Html  
+ -CSS  
  -Studied Wordpress    
  -SMM
 5. Code example
